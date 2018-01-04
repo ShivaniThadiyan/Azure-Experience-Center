@@ -33,4 +33,4 @@
 
 <!-- /TOC -->
 
-[Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Getting%20Started.md)
+[Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Getting%20Started.md)

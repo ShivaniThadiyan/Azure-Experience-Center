@@ -9,32 +9,32 @@
     * [Validation](#validation)
     
  ### Create Template
--Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
--Once logged in, click on **Templates** on the left pane of the portal. This will list the templates if any.  
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
+- Once logged in, click on **Templates** on the left pane of the portal. This will list the templates if any.  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/templates.png"/>
+<img src="/Images/templates.png"/>
 
--Click on **ADD** at the top right corner of the templates page, to add a new template.  
+- Click on **ADD** at the top right corner of the templates page, to add a new template.  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/add_template.png"/>
+<img src="/Images/add_template.png"/>
 
--Now provide the following details in the Add Template page that comes up.  
+- Now provide the following details in the Add Template page that comes up.  
 ### Explanation of all fields
-* Name : Provide a suitable name to the template.
-* Code : Provide an identifyable course code.
-* Description : Enter the description of the template.  
-* ARM Template URL(optional) : Upload the ARM template that automate the required resources for the event, to storage and provide the template link.  
-* Parameter Template URL(optional) : Upload the Parameter template that is used in the ARM template, to storage and provide the parameter template link.  
-* Owner Email : Provide the email ID of the owner of the workshop.  
-* Deployment Plan : Choose any of the deployment plan as below
-<br> a. [Single Resource Group](#single-resource-group) : Choose this plan if you need only one resource group for the workshop to deploy.
-<br> b. [Shared Instance](#shared-instance) : Choosing this plan will provide one resource group for all the attendees in the workshop.
-<br> c. [Resource Group - Two](#resource-group-two) : Choose this plan if you need two resource group for the workshop to deploy.
-<br> d. [Resource Group - Three](#resource-group-three) : Choose this plan if you need three resource group for the workshop to deploy.
-<br> e. [Resource Group - Four](#resource-group-four) : Choose this plan if you need four resource group for the workshop to deploy.   
-<br> f. [Resource Group - Five](#resource-group-five) : Choose this plan if you need five resource group for the workshop to deploy.
+- Name: Provide a suitable name to the template.
+- Code: Provide an identifyable course code.
+- Description: Enter the description of the template.  
+- ARM Template URL(optional): Upload the ARM template that automate the required resources for the event, to storage and provide the template link.  
+- Parameter Template URL(optional): Upload the Parameter template that is used in the ARM template, to storage and provide the parameter template link.  
+- Owner Email: Provide the email ID of the owner of the workshop.  
+- Deployment Plan: Choose any of the deployment plan as below
+<br> * Single Resource Group: Choose this plan if you need only one resource group for the workshop to deploy.
+<br> * Shared Instance: Choosing this plan will provide one resource group for all the attendees in the workshop.
+<br> * Resource Group - Two: Choose this plan if you need two resource group for the workshop to deploy.
+<br> * Resource Group - Three: Choose this plan if you need three resource group for the workshop to deploy.
+<br> * Resource Group - Four: Choose this plan if you need four resource group for the workshop to deploy.   
+<br> * Resource Group - Five: Choose this plan if you need five resource group for the workshop to deploy.
 
-* Lab Guide URL(optional) : Upload the lab guide for the workshop, to storage and provide the lab guide link. 
+- Lab Guide URL(optional): Upload the lab guide for the workshop, to storage and provide the lab guide link. 
 * Demo URL(optional) : Provide the link to sample or quickstart.  
 * PPT URL(optional) : Provide link to presentation slides.  
 * Prerequisites URL(optional) : Provide the link to prerequisites URL(if any).  

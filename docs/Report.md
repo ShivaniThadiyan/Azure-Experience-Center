@@ -32,28 +32,28 @@
   * METRICES BY COUNTRY
 
 ### METRICS BY ATTENDEE COUNT
-- In Metrices by Attendee count,you can see all attendees of ODLs. For Export Report Click on **Export** button. it will directly download the excel sheet of the report.
+- In Metrices by Attendee count,you can see all attendees of ODLs. For export Report Click on **Export** button. it will directly download the excel sheet of the report.
 
 <img src="/Images/Metrices_AttendeeCount.png"/>
 
 <img src="/Images/Attendee_ExportReport.png"/>
 
 ### METRICES BY TEMPLATE
-- In Metrices by template, you can see all templates. For Export Report Click on **Export** button. it will directly download the excel sheet of the report.
+- In Metrices by template, you can see all templates. For export Report Click on **Export** button. it will directly download the excel sheet of the report.
 
 <img src="/Images/Metrices_TemplateCount.png"/>
 
 <img src="/Images/Template_ExportReport.png"/>
 
 ### METRICES BY ORGANIZATION
-- In Metrices by organization, you can see all Organizations. For Export Report Click on **Export** button. it will directly download the excel sheet of the report.
+- In Metrices by organization, you can see all Organizations. For export Report Click on **Export** button. it will directly download the excel sheet of the report.
 
 <img src="/Images/Metrices_Organization.png"/>
 
 <img src="/Images/Organization_ExportReport.png"/>
 
 ### METRICES BY COUNTRY
-- In Metrices by Country, you can see all Country. For Export Report Click on **Export** button. it will directly download the excel sheet of the report.
+- In Metrices by Country, you can see all Country. For export Report Click on **Export** button. it will directly download the excel sheet of the report.
 
 <img src="/Images/Metrices_Country.png"/>
 

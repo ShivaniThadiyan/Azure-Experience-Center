@@ -17,7 +17,7 @@
 
 <img src="/Images/Add_ODL.png"/>
 
-- Now the Add ODL Details window comes up, where you can provide the following details
+- Now Add the ODL Details window comes up, where you can provide the following details
 ### Explanation of all odl fields
 * Name: Enter the Name of the ODL, which should be displayed on the ODL registration page.  
 * Template: Select the template which will be used to pre-deploy the resources required for the ODL.  
@@ -61,7 +61,7 @@
 
 <img src="/Images/Edit_ODL.png"/>
 
-* Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance  
+* Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance.  
 * This will ask the Minimum Available instances, where you can enter the minimum hot instances that is required at any point of time of the workshop. Once this is set the available hot instances will always be grater than or equal to this number.  
 * Click on **Submit** once required options above are populated.  
 
@@ -76,9 +76,9 @@
 
 <img src="/Images/Add_instances.png"/>
 
-* In the Add Hot instance Window that pops up, the **Currently available instances** show the instance which are availble, i.e not assigned to any user.  
-* In the Add Hot instance Window that pops up, enter the **Number of hot instance** that you want to deploy, corresponding to the Number of Hot Instances test box.  
-* Click on **ADD** once required options above are filled.  
+* In the Add Hot instance Window that pops up, the **Currently available instances** show the instances which are free, i.e not assigned to any user.  
+* In the Add Hot instance Window that pops up, enter the **Number of hot instance** that you want to deploy, corresponding to the Number of Hot Instances text box.  
+* Click on **ADD** once required options above are populated.  
 
 <img src="/Images/Number_instancepng.png"/>
 
@@ -87,7 +87,7 @@
 
 <img src="/Images/Add_instances.png"/>
 
-* In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e not assigned to any user.
+* In the Add Hot instance Window that pops up, the Currently available hot instances show the instances which are free, i.e not assigned to any user.
 * In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  
 * Check the box corresponding to schedule, to schedule the deployment of Hot instances at a particular time.  
 * This will ask you the Time Zone, select the time zone of where the workshop is going to be held.  

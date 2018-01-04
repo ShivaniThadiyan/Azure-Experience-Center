@@ -74,7 +74,7 @@
 
 •	In the Hot Istance page, click on **ADD HOT INSTANCES** to deploy hot instnaces for the ODL.
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Add_instances.png"/>
+<img src="/Images/Add_instances.png"/>
 
 •	In the Add Hot instance Window that pops up, the Currently available hot instances show the instance which are availble, i.e unassigned to any user.  
 •	In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  

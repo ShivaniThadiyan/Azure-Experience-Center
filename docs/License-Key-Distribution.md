@@ -13,7 +13,7 @@
 <img src="/Images/Click_Add_LicenseType.png"/>
 
 - Now provide the following details in the Add License type page that comes up.
-   * Name : Provide a suitable name to the License type
+   * **Name:** Provide a suitable name to the License type
 
 - Click on **Submit** once required options are above populated.
 
@@ -28,10 +28,10 @@
 <img src="/Images/Click_AddLicense.png"/>
 
 - Now provide the following details in the Add license page that comes up.
-  * License type: Choose the License which you created before.
-  * Expiry Date: Choose any suitable date.
-  * Licenses: Provide any suitable name for License.
-  * License Cost: Provide cost of the License.
+  * **License type:** Choose the License which you created before.
+  * **Expiry Date:** Choose any suitable date.
+  * **Licenses:** Provide any suitable name for License.
+  * **License Cost:** Provide cost of the License.
 
 <img src="/Images/Click_Add_LicenseDetails.png"/>
 

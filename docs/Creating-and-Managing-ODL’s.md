@@ -9,7 +9,7 @@
 ### ODL Create
 - We will create an **ODL**
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
+- Once logged in, click on **ODL** on the left panel of the portal. This will list the events if any.  
 
 <img src="/Images/ODL_click.png"/>
 
@@ -20,32 +20,32 @@
 - Now Add the ODL Details window comes up, where you can provide the following details
 ### Explanation of all odl fields
 * **Name:** Enter the Name of the ODL, which should be displayed on the ODL registration page.  
-* Template: Select the template which will be used to pre-deploy the resources required for the ODL.  
-* Description: Enter a description of the ODL which will be displayed on the ODL registration page as description.  
-* Tags: Enter tags such as Azure.  
-* Status: Choose one of the option to define the current status of the ODL.  
-  * Registration Open: This defines that the registration for the ODL is open and users can register for the ODL.  
-  * Registration Closed: This defines that the registration for the ODL is closed and users cannot register for the ODL. You can change the status of the ODL after the workshop is completed, confirm it onces a red strike is present over the ODL ID.  
-* Channels(optional): Specify the channel to which the ODL belongs to.  
-* Approval: Choose one of the option to define the approval type for the ODL.  
-  * Registration Required: This defines that the user should register for the ODL to get access to the ODL.  
-  * Registration & Email Validation Required: This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
-  * Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
-  * Invite Only: In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
-* Duration: Enter the duration that the lab environment should be available since its launch.  
-* Expiry Date: Choose a date from the calender, the ODL will be listed in the public till the date.  
-* Suscription Group: Choose the Azure subscription group to be used while deploying the resources required for the ODL.  
-* Licenses(optional): Choose the license which you want to assign to the user for the lab.  
-* Custom ODL Page Title (optional): Type in the text that you want to be displayed as the title of the ODL Registration Page.  
-* Video(optional): Provide the link to video that you want the users to watch if registered for the video.  
-* Do Not Send Azure Credentials (optional): Check this option if you do not want to send the Azure credentials to the users using the ODL.  
-* Is Private: Check this option if you do not want to show up this event on public pages. This can be checked for test or dry run events.  
-* Enable Vouchers(optional): Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.  
-* Allow personal email addresses: Checking this option will allow sign up to the ODl from social accounts such as gmail,yahoo,etc, Business/Work emails address are always allowed.  
-* Allow USer to delete the ODL?: Check this option if you want to allow the users to delete the ODL after finishing the workshop.  
-* Enable Hot Instances: Check this option if you want to pre-deploy n number the deployments, so that the users needn't wait for the deployment to finish once they register and launch the lab. Once you enable this option it will ask for Minimum Available instances, which will not allow the instances to go below this number.  
-* Intelligence to self-heal: Check this option if you want to start another deployment for the failed hot instances and delete the failed ones.  
-* Test: Check this option if the ODL is for test purpose, so the it does not get extracted to the excel sheet.  
+* **Template:** Select the template which will be used to pre-deploy the resources required for the ODL.  
+* **Description:** Enter a description of the ODL which will be displayed on the ODL registration page as description.  
+* **Tags:** Enter tags such as Azure.  
+* **Status:** Choose one of the option to define the current status of the ODL.  
+  * **Registration Open:** This defines that the registration for the ODL is open and users can register for the ODL.  
+  * **Registration Closed:** This defines that the registration for the ODL is closed and users cannot register for the ODL. You can change the status of the ODL after the workshop is completed, confirm it onces a red strike is present over the ODL ID.  
+* **Channels(optional):** Specify the channel to which the ODL belongs to.  
+* **Approval:** Choose one of the option to define the approval type for the ODL.  
+  * **Registration Required:** This defines that the user should register for the ODL to get access to the ODL.  
+  * **Registration & Email Validation Required:** This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
+  * **Registration & Approval Required:** This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
+  * **Invite Only:** In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
+* **Duration:** Enter the duration that the lab environment should be available since its launch.  
+* **Expiry Date:** Choose a date from the calender, the ODL will be listed in the public till the date.  
+* **Suscription Group:** Choose the Azure subscription group to be used while deploying the resources required for the ODL.  
+* **Licenses(optional):** Choose the license which you want to assign to the user for the lab.  
+* **Custom ODL Page Title (optional):** Type in the text that you want to be displayed as the title of the ODL Registration Page.  
+* **Video(optional):** Provide the link to video that you want the users to watch if registered for the video.  
+* **Do Not Send Azure Credentials (optional):** Check this option if you do not want to send the Azure credentials to the users using the ODL.  
+* **Is Private:** Check this option if you do not want to show up this event on public pages. This can be checked for test or dry run events.  
+* **Enable Vouchers(optional):** Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.  
+* **Allow personal email addresses:** Checking this option will allow sign up to the ODl from social accounts such as gmail,yahoo,etc, Business/Work emails address are always allowed.  
+* **Allow USer to delete the ODL?:** Check this option if you want to allow the users to delete the ODL after finishing the workshop.  
+* **Enable Hot Instances:** Check this option if you want to pre-deploy n number the deployments, so that the users needn't wait for the deployment to finish once they register and launch the lab. Once you enable this option it will ask for Minimum Available instances, which will not allow the instances to go below this number.  
+* **Intelligence to self-heal:** Check this option if you want to start another deployment for the failed hot instances and delete the failed ones.  
+* **Test:** Check this option if the ODL is for test purpose, so the it does not get extracted to the excel sheet.  
 
 
 - Click on **Submit** once required options above are populated.

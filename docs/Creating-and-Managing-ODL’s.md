@@ -70,7 +70,7 @@
 •	Enabling the Hot Instance in the Edit ODL page will create a new icon corresponding to the ODL.  
 •	Click on **Check Hot Instance Icon** to edit the created ODL.  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Check_hot.png"/>
+<img src="/Images/Check_hot.png"/>
 
 •	In the Hot Istance page, click on **ADD HOT INSTANCES** to deploy hot instnaces for the ODL.
 

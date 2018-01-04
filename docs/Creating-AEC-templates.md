@@ -108,7 +108,7 @@
 
 <img src="/Images/validation_details.png"/>
 
-[<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Getting%20Started.md) /
-[Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-and-Managing-ODL%E2%80%99s.md)
+[<Previous](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Getting%20Started.md) /
+[Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-and-Managing-ODL%E2%80%99s.md)
 
 

@@ -50,7 +50,7 @@
 <img src="/Images/Vouchers_odl.png"/>
 
 - Navigate Test ODL that created earlier, Click on Edit Icon to edit the created ODL.For create voucher, approval will be Invite only.
-* Approval : Choose only **invite only** option to define the approval type for the ODL.
+* Approval : Choose only **Invite only** option to define the approval type for the ODL.
    * Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
 * Enable Vouchers : Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.

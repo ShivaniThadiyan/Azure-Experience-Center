@@ -21,10 +21,10 @@
 ### User Signup type and usage
 - There are 4 type of user signup
 
-  * Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
-  * Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
-  * Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
-  * Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
+  * **Registration Required:** This defines that the user should register for the ODL to get access to the ODL.  
+  * **Registration & Email Validation Required:** This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
+  * **Registration & Approval Required:** This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
+  * **Invite Only:** In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
 
 ### Registration Management
 
@@ -50,10 +50,10 @@
 <img src="/Images/Vouchers_odl.png"/>
 
 - Navigate Test ODL that created earlier, Click on Edit Icon to edit the created ODL.For create voucher, approval will be Invite only.
-* Approval : Choose only **Invite only** option to define the approval type for the ODL.
-   * Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
+* **Approval:** Choose only **Invite only** option to define the approval type for the ODL.
+   * **Invite Only:** In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
-* Enable Vouchers : Check this option if you want to generate vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
+* **Enable Vouchers:** Check this option if you want to generate vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
 
 - Click on **Submit** once required options above are populated.
 
@@ -75,7 +75,7 @@
 
 <img src="/Images/Vouchers_addedSuccessfully.png"/>
 
-The ODL registration page looks as below.
+- The ODL registration page looks as below.
 
 <img src="/Images/Registration_Page.png"/>
 

@@ -14,16 +14,16 @@
 <img src="/Images/portal_login.png"/>
 
 - On clicking **Log In** button, you will be redirected to the following page.
-- Enter your Email address and click on Next.
+- Enter your email address and click on Next.
 
 <img src="/Images/portal_login1.png"/>
 
-- Enter the password for your account and click on Sign in
+- Enter the password for your account and click on **Sign in**.
 
 <img src="/Images/Login_password.png"/>
 
 ### How to logout from AEC
-- To logout from the portal, Click on the button with your username on the top right hand side of the page. A drop down list will be displayed. Click on logout and you will be logged out and will be redirected to the home page.
+- To logout from the portal, Click on the button with your username on the top right hand side of the page. A drop down list will be displayed. Click on **logout** and you will be logged out and will be redirected to the home page.
 
 <img src="/Images/Logout.png"/>
 
@@ -34,11 +34,11 @@
 
 <img src="/Images/odl_Click_Users.png"/>
 
-- Click on ADD at the top right corner of the Users page, to add a new user.Click on add users.
+- Click on ADD at the top right corner of the Users page, to add a new user.Click on **Add users**.
 
 <img src="/Images/odl_click_adduser.png"/>
 
-- Now provide the following details.Click  on Submit.
+- Now provide the following details.Click  on **Submit**.
 
 <img src="/Images/odl_click_submit.png"/>
 

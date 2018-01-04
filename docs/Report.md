@@ -60,5 +60,5 @@
 <img src="/Images/Country_ExportReport.png"/>
 
 [<Previous](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/ODL-User-Management.md) /
-[Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Centre/blob/master/docs/License-Key-Distribution.md)
+[Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/License-Key-Distribution.md)
 

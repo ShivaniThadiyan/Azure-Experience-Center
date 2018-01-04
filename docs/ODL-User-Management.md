@@ -75,6 +75,7 @@
 
 <img src="/Images/Vouchers_addedSuccessfully.png"/>
 
+- Navigate Test ODL that created earlier, Copy the ODL URL and paste in browser.
 - The ODL registration page looks as below.
 
 <img src="/Images/Registration_Page.png"/>

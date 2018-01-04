@@ -62,7 +62,7 @@
 * **Permission Type:** Choose any of the permission type as below
   * **Azure Built-in Role:** Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
    * **Profile Type:** Choose attendee or instructor according to whom you want to assign this permission.
-   * **Identity: Choose AAD user or AAD Service Principle according to where you want to apply this permission.
+   * **Identity:** Choose AAD user or AAD Service Principle according to where you want to apply this permission.
    * **Scope Type:** Choose Azure to set this permission scope level at Azure
    * **Scope Level:** Choose scope level as RG level or subscription level to set the scope level of this permission.
    * **Permission:** Choose the permission as Reader or owner or contributor from the drop down according to what permission you want to assign to the Attendee/Instructor.

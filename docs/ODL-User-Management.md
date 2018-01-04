@@ -53,7 +53,7 @@
 * Approval : Choose only **Invite only** option to define the approval type for the ODL.
    * Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
-* Enable Vouchers : Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
+* Enable Vouchers : Check this option if you want to generate vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
 
 - Click on **Submit** once required options above are populated.
 
@@ -98,7 +98,7 @@ The ODL registration page looks as below.
 
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
 
-- Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+- Once logged in, click on On Demand labs on the left panel of the portal. This will list the all ODL's if any.
 
 - Click on Vouchers Button.
 
@@ -112,7 +112,7 @@ The ODL registration page looks as below.
 
 ### Managing each user lab
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
+- Once logged in, click on **ODL** on the left panel of the portal. This will list the events if any.  
 
 <img src="/Images/ODL_click.png"/>
 
@@ -124,7 +124,7 @@ The ODL registration page looks as below.
 
 <img src="/Images/odl_sent_Invite.png"/>
 
-- It will redirect the Launch Lab Page. Click on **Launch Lab**.
+- It will redirect the **Launch Lab** page. Click on **Launch Lab**.
 
 <img src="/Images/odl_launch_lab.png"/>
 
@@ -138,7 +138,7 @@ The ODL registration page looks as below.
 
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
 
-- Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
+- Once logged in, click on **ODL's** on the left panel of the portal.Click on users. You can see the all options after launching the lab.
 
 - In Users, Click on **View lab status**.
 

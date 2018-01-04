@@ -8,18 +8,18 @@
 
 <img src="/Images/License_key.png"/>
 
-- Click on ADD at the top right corner of the License page, to add a new License Type.
+- Click on **Add License type** at the top right corner of the License page, to add a new License Type.
 
 <img src="/Images/Click_Add_LicenseType.png"/>
 
 - Now provide the following details in the Add License type page that comes up.
    * Name : Provide a suitable name to the License type
 
-- Click on Submit once required options are above populated.
+- Click on **Submit** once required options are above populated.
 
 <img src="/Images/Create_LicenseKey.png"/>
 
-- Click on Action Button to add the License.
+- Click on **Action** Button to add the License.
 
 <img src="/Images/License_Action.png"/>
 

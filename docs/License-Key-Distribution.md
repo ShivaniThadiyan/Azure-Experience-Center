@@ -13,7 +13,7 @@
 <img src="/Images/Click_Add_LicenseType.png"/>
 
 - Now provide the following details in the Add License type page that comes up.
-  * Name : Provide a suitable name to the License type
+   * Name : Provide a suitable name to the License type
 
 - Click on Submit once required options are above populated.
 

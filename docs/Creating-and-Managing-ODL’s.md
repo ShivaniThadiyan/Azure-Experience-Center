@@ -76,8 +76,8 @@
 
 <img src="/Images/Add_instances.png"/>
 
-* In the Add Hot instance Window that pops up, the **Currently available hot instances** show the instance which are availble, i.e not assigned to any user.  
-* In the Add Hot instance Window that pops up, enter the number of hot instance that you want to deploy, corresponding to the Number of Hot Instances test box.  
+* In the Add Hot instance Window that pops up, the **Currently available instances** show the instance which are availble, i.e not assigned to any user.  
+* In the Add Hot instance Window that pops up, enter the **Number of hot instance** that you want to deploy, corresponding to the Number of Hot Instances test box.  
 * Click on **ADD** once required options above are filled.  
 
 <img src="/Images/Number_instancepng.png"/>

@@ -100,7 +100,7 @@
 
 ### Validating Template
 ### Validation
--Click on **Validate subscription with ARM template** icon corresponding to the template created.  
+- Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
 <img src="/Images/Template_validate.png"/>
 

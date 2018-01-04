@@ -8,77 +8,76 @@
 
  The ODL registration page looks as below  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/ODL_reg.png"/>
+<img src="/Images/ODL_reg.png"/>
 
-**A** : The users can register for the workshop here with the required details and click on **Submit**.  
-**B** : The name of the event is displayed here, which is same as the ODL name given at the time of ODL creation. It also shows the organisation which conducts the workshop with their Logo.  
-**C** : This is the short description of the workshop, which is same as the description given at the time of ODL creation.  
-**D** : This is the duration for which the user will have access to ODL environment.  
-**E** : This is the email ID of the contact person who scheduled the workshop, which is same as given at the time of ODL creation.  
-**F** : These are the tags mentioned while creating the ODL.  
-**G** : This is the Custom ODL name that we mentioned at the time of ODL creation.  
+**A**: The users can register for the workshop here with the required details and click on **Submit**.  
+**B**: The name of the event is displayed here, which is same as the ODL name given at the time of ODL creation. It also shows the organisation which conducts the workshop with their Logo.  
+**C**: This is the short description of the workshop, which is same as the description given at the time of ODL creation.  
+**D**: This is the duration for which the user will have access to ODL environment.  
+**E**: This is the email ID of the contact person who scheduled the workshop, which is same as given at the time of ODL creation.  
+**F**: These are the tags mentioned while creating the ODL.  
+**G**: This is the Custom ODL name that we mentioned at the time of ODL creation.  
 
 ### User Signup type and usage
 - There are 4 type of user signup
 
-a.	Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
-<br>b.	Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
-<br>c.	Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
-<br>d.	Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
+* Registration Required : This defines that the user should register for the ODL to get access to the ODL.  
+* Registration & Email Validation Required : This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
+* Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
+* Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
 
 ### Registration Management
 
--Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
--Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
+- Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
    
- <img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/ODL_click.png"/> 
+ <img src="/Images/ODL_click.png"/> 
   
--Click on **Edit Icon** to edit the created ODL.  
+- Click on **Edit Icon** to edit the created ODL.  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Edit_ODL.png"/>
+<img src="/Images/Edit_ODL.png"/>
 
--In the Edit ODL page, copy the URL from the first field. This is the ODL registration page URL. The Instructor can customize this URL using bitlink before 
+- In the Edit ODL page, copy the URL from the first field. This is the ODL registration page URL. The Instructor can customize this URL using bitlink before 
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/ODL_URL.png"/>
+<img src="/Images/ODL_URL.png"/>
 
 ### Managing and distributing Vouchers
 
--Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
 
--Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+- Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Vouchers_odl.png"/></kbd>
+<img src="/Images/Vouchers_odl.png"/>
 
--Navigate Test ODL that created earlier, Click on Edit Icon to edit the created ODL.For create voucher, approval will be Invite only.
+- Navigate Test ODL that created earlier, Click on Edit Icon to edit the created ODL.For create voucher, approval will be Invite only.
 * Approval : Choose only **invite only** option to define the approval type for the ODL.
-
--Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
+  *Invite Only : In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.
 
 * Enable Vouchers : Check this option if you want to genete vouchers to distribute to the users. This will be checked by default if you select the approval type as Invite Only.
 
--Click on **Submit** once required options above are filled.
+- Click on **Submit** once required options above are populated.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Click_EnableVoucher.png"/></kbd>
+<img src="/Images/Click_EnableVoucher.png"/>
 
--click on **Vouchers** button.
+- Click on **Vouchers** button.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Click_VoucherButton.png"/></kbd>
+<img src="/Images/Click_VoucherButton.png"/>
 
--Click on **Add Vouchers**.
+- Click on **Add Vouchers**.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Click_AddVouchers.png"/></kbd>
+<img src="/Images/Click_AddVouchers.png"/>
 
--Now provide the following details in the Add Vouchers Page that comes up.
+- Now provide the following details in the Add Vouchers Page that comes up.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Click_Submit.png"/></kbd>
+<img src="/Images/Click_Submit.png"/>
 
--Now you can see the voucher added successfully.
+- Now you can see the voucher added successfully.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Vouchers_addedSuccessfully.png"/></kbd>
+<img src="/Images/Vouchers_addedSuccessfully.png"/>
 
 The ODL registration page looks as below.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Registration_Page.png"/></kbd>
+<img src="/Images/Registration_Page.png"/>
 
 -The users can register for the workshop here with the required details and click on Submit.
 
@@ -100,83 +99,83 @@ d. Invite Only : In this case the instructor can generate the vouchers to be dis
 -paste the Voucher Code in Registration page below.
 
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Registration_Add%20details.png"/></kbd>
+<img src="/Images/Registration_Add%20details.png"/>
 
--Click on **Submit** once required options are filled.
+- Click on **Submit** once required options are filled.
 
--Now you can see the registration successful.
+- Now you can see the registration successful.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Registration_Successfull.png"/></kbd>
+<img src="/Images/Registration_Successfull.png"/>
 
--Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
 
--Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+- Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
 
--Click on Vouchers Button.
+- Click on Vouchers Button.
 
--Now Click on **Available** button, you can see the voucher code that is available for user.
+- Now Click on **Available** button, you can see the voucher code that is available for user.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Click_Available.png"/></kbd>
+<img src="/Images/Click_Available.png"/>
 
--Now click on **Redeemed** button, you can see that voucher code is redeem for user.
+- Now click on **Redeemed** button, you can see that voucher code is redeem for user.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Click_Redeemed.png"/></kbd>
+<img src="/Images/Click_Redeemed.png"/>
 
 ### Managing each user lab
--Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
--Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
+- Once logged in, click on **ODL** on the left pane of the portal. This will list the events if any.  
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/ODL_click.png"/></kbd>
+<img src="/Images/ODL_click.png"/>
 
--Click on **Users** of the ODL's page,This will list the users if any.
+- Click on **Users** of the ODL's page,This will list the users if any.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_users.png"/></kbd>
+<img src="/Images/odl_users.png"/>
 
--Now you can see the user, Click on Invite link.
+- Now you can see the user, Click on **Invite link**.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_sent_Invite.png"/></kbd>
+<img src="/Images/odl_sent_Invite.png"/>
 
--It will redirect the Launch Lab Page. Click on **Launch Lab**.
+- It will redirect the Launch Lab Page. Click on **Launch Lab**.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_launch_lab.png"/></kbd>
+<img src="/Images/odl_launch_lab.png"/>
 
--Now you can see the your environment is creating.
+- Now you can see the your environment is creating.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_environment.png"/></kbd>
+<img src="/Images/odl_environment.png"/>
 
--Now you will get the ODL user URL details.
+- Now you will get the ODL user Crendentials details.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_userURL.png"/></kbd>
+<img src="/Images/odl_userURL.png"/>
 
--Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials. 
 
--Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
+- Once logged in, click on **ODL's** on the left pane of the portal.Click on users. You can see the all options after launching the lab.
 
--In Users, Click on **view lab status**.
+- In Users, Click on **View lab status**.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_viewlabStatus.png"/></kbd>
+<img src="/Images/odl_viewlabStatus.png"/>
 
--Now you can see the status.
+- Now you can see the status.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_lab_viewstatus.png"/></kbd>
+<img src="/Images/odl_lab_viewstatus.png"/>
 
--In lab status Page, you can reset the password. Click on reset button.
+- In lab status Page, you can reset the password. Click on **Reset** button.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_reset_labpwd.png"/></kbd>
+<img src="/Images/odl_reset_labpwd.png"/>
 
--Click OK.
+- Click OK.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_passwd.png"/></kbd>
+<img src="/Images/odl_passwd.png"/>
 
--Now you can delete the environment also. Click on delete environment button.
+- Now you can delete the environment also. Click on **Delete environment** button.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_delete_environment.png"/></kbd>
+<img src="/Images/odl_delete_environment.png"/>
 
--Click OK.
+- Click OK.
 
-<kbd><img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/odl_click_ok.png"/></kbd>
+<img src="/Images/odl_click_ok.png"/>
 
--It will delete successfully.
+- It will delete successfully.
 
 [<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-and-Managing-ODL%E2%80%99s.md) /
 [Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Report.md)

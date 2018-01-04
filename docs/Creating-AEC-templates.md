@@ -72,41 +72,41 @@
  
 <img src="/Images/Azure_built-in_role.png"/>
 
- * Custom ARM Policy: Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
-  * Scope Type: Choose Azure to set this permission scope level at Azure
-  * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this policy you are going to upload.
-  * Permission Data: Enter the Custom policy URL of where you have uploaded the Policy file. These policies will be applied to the users using the workshop according to the Scope Level.
-  * Apply at Launch: Check this option if you want to apply the policy at the time of deployment of the template
+  * Custom ARM Policy: Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
+   * Scope Type: Choose Azure to set this permission scope level at Azure
+   * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this policy you are going to upload.
+   * Permission Data: Enter the Custom policy URL of where you have uploaded the Policy file. These policies will be applied to the users using the workshop according to the Scope Level.
+   * Apply at Launch: Check this option if you want to apply the policy at the time of deployment of the template
 
 - Click on **Submit** once required options above are populated.
  
 <img src="/Images/Custom_policy.png"/>
 
-* Azure Custom Role: Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
- * Profile Type: Choose Attendee or Instructor according to whom you want to assign this role.
- * Identity: Choose AAD user or AAD Service Principle according to where you want to apply this custom role.
- * Scope Type: Choose Azure to set this custom role scope level at Azure
- * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this custom role.
- * Permission Data: Enter the Custom permission URL of where you have uploaded the RBAC file. These roles will be applied to the Attendee/Instructor according to the Scope Level.
- * Apply at Launch: Check this option if you want to apply the custom role at the time of deployment of the template
+ * Azure Custom Role: Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
+  * Profile Type: Choose Attendee or Instructor according to whom you want to assign this role.
+  * Identity: Choose AAD user or AAD Service Principle according to where you want to apply this custom role.
+  * Scope Type: Choose Azure to set this custom role scope level at Azure
+  * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this custom role.
+  * Permission Data: Enter the Custom permission URL of where you have uploaded the RBAC file. These roles will be applied to the Attendee/Instructor according to the Scope Level.
+  * Apply at Launch: Check this option if you want to apply the custom role at the time of deployment of the template
 
 - Click on **Submit** once required options above are filled.
  
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/custom_role.png"/>
+<img src="/Images/custom_role.png"/>
 
--Once all the permissions are added to the template, please click on **Submit** above the template Permissions section.  
+- Once all the permissions are added to the template, please click on **Submit** above the template Permissions section.  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/permissions_template.png"/>
+<img src="/Images/permissions_template.png"/>
 
 ### Validating Template
 ### Validation
 -Click on **Validate subscription with ARM template** icon corresponding to the template created.  
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Template_validate.png"/>
+<img src="/Images/Template_validate.png"/>
 
--Provide the azure subscription group and subscription in which the validator should be run. Also provide the regions where you want to validate the template and click on **Submit**.  
+- Provide the azure subscription group and subscription in which the validator should be run. Also provide the regions where you want to validate the template and click on **Submit**.  
 
-<img src="https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/Images/validation_details.png"/>
+<img src="/Images/validation_details.png"/>
 
 [<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Getting%20Started.md) /
 [Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-and-Managing-ODL%E2%80%99s.md)

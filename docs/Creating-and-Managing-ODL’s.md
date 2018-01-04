@@ -59,7 +59,7 @@
 ### Enable or Disable Hot instances   
 * Click on **Edit Icon** to edit the created ODL.  
 
-<img src="h/Images/Edit_ODL.png"/>
+<img src="/Images/Edit_ODL.png"/>
 
 * Scroll down the Edit ODL page and check the option the corresponding to Enable Hot Instance  
 * This will ask the Minimum Available instances, where you can enter the minimum hot instances that is required at any point of time of the workshop. Once this is set the available hot instances will always be grater than or equal to this number.  

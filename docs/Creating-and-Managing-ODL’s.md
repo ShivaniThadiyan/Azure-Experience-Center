@@ -108,6 +108,6 @@
 
 <img src="/Images/schedule_delete.png"/>
 
-[<Previous](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Creating-AEC-templates.md) /
-[Next>](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/ODL-User-Management.md)
+[<Previous](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md) /
+[Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/ODL-User-Management.md)
 

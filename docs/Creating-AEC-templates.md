@@ -20,47 +20,47 @@
 
 - Now provide the following details in the Add Template page that comes up.  
 ### Explanation of all fields
-- Name: Provide a suitable name to the template.
-- Code: Provide an identifyable course code.
-- Description: Enter the description of the template.  
-- ARM Template URL(optional): Upload the ARM template that automate the required resources for the event, to storage and provide the template link.  
-- Parameter Template URL(optional): Upload the Parameter template that is used in the ARM template, to storage and provide the parameter template link.  
-- Owner Email: Provide the email ID of the owner of the workshop.  
-- Deployment Plan: Choose any of the deployment plan as below
-<br> * Single Resource Group: Choose this plan if you need only one resource group for the workshop to deploy.
-<br> * Shared Instance: Choosing this plan will provide one resource group for all the attendees in the workshop.
-<br> * Resource Group - Two: Choose this plan if you need two resource group for the workshop to deploy.
-<br> * Resource Group - Three: Choose this plan if you need three resource group for the workshop to deploy.
-<br> * Resource Group - Four: Choose this plan if you need four resource group for the workshop to deploy.   
-<br> * Resource Group - Five: Choose this plan if you need five resource group for the workshop to deploy.
+* Name: Provide a suitable name to the template.
+* Code: Provide an identifyable course code.
+* Description: Enter the description of the template.  
+* ARM Template URL(optional): Upload the ARM template that automate the required resources for the event, to storage and provide the template link.  
+* Parameter Template URL(optional): Upload the Parameter template that is used in the ARM template, to storage and provide the parameter template link.  
+* Owner Email: Provide the email ID of the owner of the workshop.  
+* Deployment Plan: Choose any of the deployment plan as below
+  * Single Resource Group: Choose this plan if you need only one resource group for the workshop to deploy.
+  * Shared Instance: Choosing this plan will provide one resource group for all the attendees in the workshop.
+  * Resource Group - Two: Choose this plan if you need two resource group for the workshop to deploy.
+  * Resource Group - Three: Choose this plan if you need three resource group for the workshop to deploy.
+  * Resource Group - Four: Choose this plan if you need four resource group for the workshop to deploy.   
+  * Resource Group - Five: Choose this plan if you need five resource group for the workshop to deploy.
 
-- Lab Guide URL(optional): Upload the lab guide for the workshop, to storage and provide the lab guide link. 
-* Demo URL(optional) : Provide the link to sample or quickstart.  
-* PPT URL(optional) : Provide link to presentation slides.  
-* Prerequisites URL(optional) : Provide the link to prerequisites URL(if any).  
-* Regions : Provide the regions where you want to deploy the template.
-* MS Cloud Licenses(optional) : Choose the license which you want to assign to the user for the lab.
-* Create Service Principal(optional) : Check this option if you want to create separate service principle for each of the users registered for the lab.
-* Send Service Principal(option comes up only if you check the above option) : Check this option if you want to send the service principle details to each of the users registered for the lab. The details will be sent with the lab details.
-* Attendee Custom RBAC URL(optional) : Create custom RBAC policies for the attendees in the workshop and upload in storage. Provide the link to policy here. 
+* Lab Guide URL(optional): Upload the lab guide for the workshop, to storage and provide the lab guide link. 
+* Demo URL(optional): Provide the link to sample or quickstart.  
+* PPT URL(optional): Provide link to presentation slides.  
+* Prerequisites URL(optional): Provide the link to prerequisites URL(if any).  
+* Regions: Provide the regions where you want to deploy the template.
+* MS Cloud Licenses(optional): Choose the license which you want to assign to the user for the lab.
+* Create Service Principal(optional): Check this option if you want to create separate service principle for each of the users registered for the lab.
+* Send Service Principal(option comes up only if you check the above option): Check this option if you want to send the service principle details to each of the users registered for the lab. The details will be sent with the lab details.
+* Attendee Custom RBAC URL(optional): Create custom RBAC policies for the attendees in the workshop and upload in storage. Provide the link to policy here. 
 
--Click on **Submit** once required options above are filled.
+- Click on **Submit** once required options above are filled.
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/add_template_details.png"/>
+<img src="/Images/add_template_details.png"/>
 
 ### ARM Template Best Practices
 ### Use of template outputs
--If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
+- If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
 
 ### Template Permissions
 
--Click on **Edit Icon** to edit the created template and add the template permissions if any
+- Click on **Edit Icon** to edit the created template and add the template permissions if any
 
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Template_Edit.png"/>
+<img src="/Images/Template_Edit.png"/>
 
 ### Explanation with details to implement 
 * Permission Type : Choose any of the Permission type as below
-<br> a. [Azure Built-in Role](#azure-built-in-role) : Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
+<br> Azure Built-in Role: Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
 <br>* [Profile Type](#profile-type) : Choose Attendee or Instructor according to whom you want to assign this permission.
 <br>* [Identity](#identity) : Choose AAD user or AAD Service Principle according to where you want to apply this permission.
 <br>* [Scope Type](#scope-type) : Choose Azure to set this permission scope level at Azure

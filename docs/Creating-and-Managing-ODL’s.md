@@ -19,7 +19,7 @@
 
 - Now Add the ODL Details window comes up, where you can provide the following details
 ### Explanation of all odl fields
-* Name: Enter the Name of the ODL, which should be displayed on the ODL registration page.  
+* **Name:** Enter the Name of the ODL, which should be displayed on the ODL registration page.  
 * Template: Select the template which will be used to pre-deploy the resources required for the ODL.  
 * Description: Enter a description of the ODL which will be displayed on the ODL registration page as description.  
 * Tags: Enter tags such as Azure.  

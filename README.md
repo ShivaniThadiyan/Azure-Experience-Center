@@ -1,7 +1,6 @@
  
 
 # Azure-Experience-Centre
-
 <br><br>
 <!-- TOC -->
 * [Getting Started](https://github.com/Suraj2093/Azure-Experience-Centre/blob/master/docs/Getting%20Started.md)

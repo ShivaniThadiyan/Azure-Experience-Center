@@ -72,7 +72,7 @@
  
 <img src="/Images/Azure_built-in_role.png"/>
 
-  * Custom ARM Policy: Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
+ * Custom ARM Policy: Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
    * Scope Type: Choose Azure to set this permission scope level at Azure
    * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this policy you are going to upload.
    * Permission Data: Enter the Custom policy URL of where you have uploaded the Policy file. These policies will be applied to the users using the workshop according to the Scope Level.
@@ -82,7 +82,7 @@
  
 <img src="/Images/Custom_policy.png"/>
 
- * Azure Custom Role: Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
+* Azure Custom Role: Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
   * Profile Type: Choose Attendee or Instructor according to whom you want to assign this role.
   * Identity: Choose AAD user or AAD Service Principle according to where you want to apply this custom role.
   * Scope Type: Choose Azure to set this custom role scope level at Azure

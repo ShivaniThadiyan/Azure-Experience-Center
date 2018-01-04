@@ -24,14 +24,14 @@
 * Description: Enter a description of the ODL which will be displayed on the ODL registration page as description.  
 * Tags: Enter tags such as Azure.  
 * Status: Choose one of the option to define the current status of the ODL.  
- * Registration Open: This defines that the registration for the ODL is open and users can register for the ODL.  
- * Registration Closed: This defines that the registration for the ODL is closed and users cannot register for the ODL. You can change the status of the ODL after the workshop is completed, confirm it onces a red strike is present over the ODL ID.  
+  * Registration Open: This defines that the registration for the ODL is open and users can register for the ODL.  
+  * Registration Closed: This defines that the registration for the ODL is closed and users cannot register for the ODL. You can change the status of the ODL after the workshop is completed, confirm it onces a red strike is present over the ODL ID.  
 * Channels(optional): Specify the channel to which the ODL belongs to.  
 * Approval: Choose one of the option to define the approval type for the ODL.  
- * Registration Required: This defines that the user should register for the ODL to get access to the ODL.  
- * Registration & Email Validation Required: This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
- * Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
- * Invite Only: In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
+  * Registration Required: This defines that the user should register for the ODL to get access to the ODL.  
+  * Registration & Email Validation Required: This defines that the user should register for the ODL and launch the lab from the Email sent from AEC to get access to the ODL.  
+  * Registration & Approval Required : This defines that the user should register for the ODL. Here the user will not be able to access the ODL unless the Instructor approves the registration from the User Window of the ODL.  
+  * Invite Only: In this case the instructor can generate the vouchers to be distributed to the users, so that the users can use it to register the lab. The users cannot register without entering the voucher code asked in the registration page.  
 * Duration: Enter the duration that the lab environment should be available since its launch.  
 * Expiry Date: Choose a date from the calender, the ODL will be listed in the public till the date.  
 * Suscription Group: Choose the Azure subscription group to be used while deploying the resources required for the ODL.  

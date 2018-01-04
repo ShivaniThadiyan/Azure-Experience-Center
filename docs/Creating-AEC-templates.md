@@ -59,38 +59,38 @@
 <img src="/Images/Template_Edit.png"/>
 
 ### Explanation with details to implement 
-* Permission Type : Choose any of the Permission type as below
-<br> Azure Built-in Role: Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
-<br>* [Profile Type](#profile-type) : Choose Attendee or Instructor according to whom you want to assign this permission.
-<br>* [Identity](#identity) : Choose AAD user or AAD Service Principle according to where you want to apply this permission.
-<br>* [Scope Type](#scope-type) : Choose Azure to set this permission scope level at Azure
-<br>* [Scope Level](#scope-level) : Choose scope level as RG level or subscription level to set the scope level of this permission.
-<br>* [Permission](#permission) : Choose the permission as Reader or Owner or contributor from the drop down according to what permission you want to assign to the Attendee/Instructor.
-<br>* [Apply at Launch](#apply-at-launch) : Check this option if you want to apply the permission at the time of deployment of the template
+* Permission Type: Choose any of the Permission type as below
+  * Azure Built-in Role: Choose this permission type to assign the Azure Built-in Role to the Attendee/Instructor of the workshop.
+   * Profile Type: Choose Attendee or Instructor according to whom you want to assign this permission.
+   * Identity: Choose AAD user or AAD Service Principle according to where you want to apply this permission.
+   * Scope Type: Choose Azure to set this permission scope level at Azure
+   * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this permission.
+   * Permission: Choose the permission as Reader or Owner or contributor from the drop down according to what permission you want to assign to the Attendee/Instructor.
+   * Apply at Launch: Check this option if you want to apply the permission at the time of deployment of the template
 
--Click on **Submit** once required options above are filled.
+- Click on **Submit** once required options above are populated.
  
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Azure_built-in_role.png"/>
+<img src="/Images/Azure_built-in_role.png"/>
 
-<br> b. [Custom ARM Policy](#custom-arm-policy) : Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
-<br>* [Scope Type](#scope-type) : Choose Azure to set this permission scope level at Azure
-<br>* [Scope Level](#scope-level) : Choose scope level as RG level or subscription level to set the scope level of this policy you are going to upload.
-<br>* [Permission Data](#permission-data) : Enter the Custom policy URL of where you have uploaded the Policy file. These policies will be applied to the users using the workshop according to the Scope Level.
-<br>* [Apply at Launch](#apply-at-launch) : Check this option if you want to apply the policy at the time of deployment of the template
+ * Custom ARM Policy: Choose this permission type to assign the Custom ARM Policy to whoever is using the Resource group or Subscription of the workshop.
+  * Scope Type: Choose Azure to set this permission scope level at Azure
+  * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this policy you are going to upload.
+  * Permission Data: Enter the Custom policy URL of where you have uploaded the Policy file. These policies will be applied to the users using the workshop according to the Scope Level.
+  * Apply at Launch: Check this option if you want to apply the policy at the time of deployment of the template
 
--Click on **Submit** once required options above are filled.
+- Click on **Submit** once required options above are populated.
  
-<img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/Custom_policy.png"/>
+<img src="/Images/Custom_policy.png"/>
 
-<br> a. [Azure Custom Role](#azure-custom-role) : Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
-<br>* [Profile Type](#profile-type) : Choose Attendee or Instructor according to whom you want to assign this role.
-<br>* [Identity](#identity) : Choose AAD user or AAD Service Principle according to where you want to apply this custom role.
-<br>* [Scope Type](#scope-type) : Choose Azure to set this custom role scope level at Azure
-<br>* [Scope Level](#scope-level) : Choose scope level as RG level or subscription level to set the scope level of this custom role.
-<br>* [Permission Data](#permission-data) : Enter the Custom permission URL of where you have uploaded the RBAC file. These roles will be applied to the Attendee/Instructor according to the Scope Level.
-<br>* [Apply at Launch](#apply-at-launch) : Check this option if you want to apply the custom role at the time of deployment of the template
+* Azure Custom Role: Choose this permission type to assign the Azure Custom Role to the Attendee/Instructor of the workshop.
+ * Profile Type: Choose Attendee or Instructor according to whom you want to assign this role.
+ * Identity: Choose AAD user or AAD Service Principle according to where you want to apply this custom role.
+ * Scope Type: Choose Azure to set this custom role scope level at Azure
+ * Scope Level: Choose scope level as RG level or subscription level to set the scope level of this custom role.
+ * Permission Data: Enter the Custom permission URL of where you have uploaded the RBAC file. These roles will be applied to the Attendee/Instructor according to the Scope Level.
+ * Apply at Launch: Check this option if you want to apply the custom role at the time of deployment of the template
 
--Click on **Submit** once required options above are filled.
+- Click on **Submit** once required options above are filled.
  
 <img src="https://raw.githubusercontent.com/Suraj2093/Azure-Experience-Centre/master/Images/custom_role.png"/>
 

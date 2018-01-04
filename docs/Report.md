@@ -15,7 +15,7 @@
 
 <img src="/Images/Filter_by_date1.png"/>
 
--Click **OK**.
+- Click **OK**.
 
 <img src="/Images/filter_by_date2.png"/>
 
@@ -26,10 +26,10 @@
 <img src="/Images/Exportall_Report.png"/>
 
 - In Dashboard Section, you can see the 
-* METRICS BY ATTENDEE COUNT
-* METRICES BY TEMPLATE
-* METRICES BY ORGANIZATION
-* METRICES BY COUNTRY
+  * METRICS BY ATTENDEE COUNT
+  * METRICES BY TEMPLATE
+  * METRICES BY ORGANIZATION
+  * METRICES BY COUNTRY
 
 ### METRICS BY ATTENDEE COUNT
 - In Metrices by Attendee count,you can see all attendees of ODLs. For Export Report Click on **Export** button. it will directly download the excel sheet of the report.

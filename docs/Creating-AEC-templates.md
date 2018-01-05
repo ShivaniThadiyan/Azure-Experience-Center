@@ -52,7 +52,7 @@
 
 ### ARM Template Best Practices
 ### Use of Input Parameter functions
-  ### Explanation of all functions
+* **Explanation of all functions**
 ### Use of Template outputs
 - If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
 

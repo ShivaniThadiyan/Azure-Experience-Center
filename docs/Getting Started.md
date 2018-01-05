@@ -30,7 +30,7 @@
 ### Adding Co-Admins
 
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **Users** on the left pane of the portal.This will list the users if any.
+- Once logged in, click on **Users** on the left panel of the portal.This will list the users if any.
 
 <img src="/Images/odl_Click_Users.png"/>
 

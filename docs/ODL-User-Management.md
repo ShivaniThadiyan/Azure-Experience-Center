@@ -29,7 +29,7 @@
 ### Registration Management
 
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **ODL** on the left pane of the portal. This will list the ODLs if any.
+- Once logged in, click on **ODL** on the left panel of the portal. This will list the ODLs if any.
    
  <img src="/Images/ODL_click.png"/> 
   
@@ -45,7 +45,7 @@
 
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
 
-- Once logged in, click on On Demand labs on the left pane of the portal. This will list the all ODL's if any.
+- Once logged in, click on On Demand labs on the left panel of the portal. This will list the all ODL's if any.
 
 <img src="/Images/Vouchers_odl.png"/>
 

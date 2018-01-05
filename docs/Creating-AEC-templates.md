@@ -2,7 +2,8 @@
   * [Create Template](#create-template)
     * [Explanation of all fields](#explanation-of-all-fields)
   * [ARM Template Best Practices](#arm-template-best-practices)
-    * [Use of template outputs](#use-of-template-outputs)
+    * [Use of Input Parameter functions](#use-of-input-parameter-functions)
+    * [Use of Template outputs](#use-of-template-outputs)
   * [Template Permissions](#template-permissions)
     * [Explanation with details to implement](#explanation-with-details-to-implement)
   * [Validating Template](#validating-template)
@@ -49,7 +50,8 @@
 <img src="/Images/add_template_details.png"/>
 
 ### ARM Template Best Practices
-### Use of template outputs
+### Use of Input Parameter functions
+### Use of Template outputs
 - If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
 
 ### Template Permissions

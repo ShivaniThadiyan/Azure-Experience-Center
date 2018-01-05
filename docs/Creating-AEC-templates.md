@@ -46,7 +46,7 @@
 * **Send Service Principal(option comes up only if you check the above option):** Check this option if you want to send the service principle details to each of the users registered for the lab. The details will be sent with the lab details.
 * **Attendee Custom RBAC URL(optional):** Create custom RBAC policies for the attendees in the workshop and upload in storage. Provide the link to policy here. 
 
-- Click on **Submit** once required options above are filled.
+- Click on **Submit** once required options above are populated.
 
 <img src="/Images/add_template_details.png"/>
 

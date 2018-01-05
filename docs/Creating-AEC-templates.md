@@ -12,7 +12,7 @@
     
  ### Create Template
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **Templates** on the left paneL of the portal. This will list the templates if any.  
+- Once logged in, click on **Templates** on the left panel of the portal. This will list the templates if any.  
 
 <img src="/Images/templates.png"/>
 

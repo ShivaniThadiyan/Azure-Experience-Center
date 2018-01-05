@@ -62,7 +62,6 @@
 * **GET-SERVICEPRINCIPAL-SECRET:** Using this function, you can get the Service-Principal Secret key.
 * **GET-SERVICEPRINCIPAL-APPLICATION-ID:** Using this function, you can get the Service-Principal Application-ID.
 * **GET-SERVICEPRINCIPAL-OBJECT-ID:** Using this function, you can get the Service-Principal Object-ID.
-* **GET-SERVICEPRINCIPAL-SPOBJECT-ID:** 
 * **GET-AZUSER-UPN:** Using this function,you can get the generated AD email of the attendee. for **example: demouser_spektrasystems_com@spektrahol.onmicrosoft.com**
 * **GET-AZUSER-PASSWORD:** Using this function,you can get the temporary password of the generated AD.
 * **GET-PARAMETER-FILE-BASEURI:** Using this function, you can get the Parameter-file BaseURI.

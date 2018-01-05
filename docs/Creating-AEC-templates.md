@@ -53,20 +53,20 @@
 ### ARM Template Best Practices
 ### Use of Input Parameter functions
 ### Explanation of all functions
-* **GEN-PASSWORD:** 
-* **GEN-UNIQUE:**
+* **GEN-PASSWORD:** Generate the password for the template to deploy.
+* **GEN-UNIQUE:** Generate the unique value for the template to deploy.
 * **GEN-UNIQUE-[Length]:**
-* **GEN-SSH-PUB-KEY:**
+* **GEN-SSH-PUB-KEY:** Genarate the SSH public key for the template to deploy.
 * **GEN-GUID:**
-* **GET-SERVICEPRINCIPAL-NAME:**
-* **GET-SERVICEPRINCIPAL-SECRET:**
-* **GET-SERVICEPRINCIPAL-APPLICATION-ID:**
-* **GET-SERVICEPRINCIPAL-OBJECT-ID:**
-* **GET-SERVICEPRINCIPAL-SPOBJECT-ID:**
-* **GET-AZUSER-UPN:**
-* **GET-AZUSER-PASSWORD:**
-* **GET-PARAMETER-FILE-BASEURI:**
-* **GET-TEMPLATE-FILE-BASEURI:**
+* **GET-SERVICEPRINCIPAL-NAME:** Using this function, you can get the Service-Principal-Name.
+* **GET-SERVICEPRINCIPAL-SECRET:** Using this function, you can get the Service-Principal Secret key.
+* **GET-SERVICEPRINCIPAL-APPLICATION-ID:** Using this function, you can get the Service-Principal Application-ID.
+* **GET-SERVICEPRINCIPAL-OBJECT-ID:** Using this function, you can get the Service-Principal Object-ID.
+* **GET-SERVICEPRINCIPAL-SPOBJECT-ID:** 
+* **GET-AZUSER-UPN:** 
+* **GET-AZUSER-PASSWORD:** 
+* **GET-PARAMETER-FILE-BASEURI:** Using this function, you can get the Parameter-file BaseURI.
+* **GET-TEMPLATE-FILE-BASEURI:** Using this function, you can get the Template-file BaseURI.
 ### Use of Template outputs
 - If you want to provide the attendees some results that are required in the workshop, you can provide it by using an output section in the ARM template. The results can also be sent as email to the attendees when the template deployment is completed.  
 

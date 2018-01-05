@@ -53,18 +53,18 @@
 ### ARM Template Best Practices
 ### Use of Input Parameter functions
 ### Explanation of all functions
-* **GEN-PASSWORD:** Generate the password for the template to deploy.
-* **GEN-UNIQUE:** Generate the unique value for the template to deploy.
-* **GEN-UNIQUE-[Length]:**
-* **GEN-SSH-PUB-KEY:** Genarate the SSH public key for the template to deploy.
-* **GEN-GUID:**
+* **GEN-PASSWORD:** Generates the password for the template to deploy.
+* **GEN-UNIQUE:** Generates the unique value for the template to deploy.
+* **GEN-UNIQUE-[Length]:** Generates a unique set of characters of the specified length so if its given as **GEN-UNIQUE-6**, then it generates 6 unique characters. This can be used as special identifiers.
+* **GEN-SSH-PUB-KEY:** Genarates the SSH public key for the template to deploy.
+* **GEN-GUID:** Generates a GUID, a **GUID** is a globally unique identifier, and it typically is 32 characters.
 * **GET-SERVICEPRINCIPAL-NAME:** Using this function, you can get the Service-Principal-Name.
 * **GET-SERVICEPRINCIPAL-SECRET:** Using this function, you can get the Service-Principal Secret key.
 * **GET-SERVICEPRINCIPAL-APPLICATION-ID:** Using this function, you can get the Service-Principal Application-ID.
 * **GET-SERVICEPRINCIPAL-OBJECT-ID:** Using this function, you can get the Service-Principal Object-ID.
 * **GET-SERVICEPRINCIPAL-SPOBJECT-ID:** 
-* **GET-AZUSER-UPN:** 
-* **GET-AZUSER-PASSWORD:** 
+* **GET-AZUSER-UPN:** Using this function,you can get the generated AD email of the attendee. for     **eg: demouser_spektrasystems_com@spektrahol.onmicrosoft.com**
+* **GET-AZUSER-PASSWORD:** Using this function,you can get the temporary password of the generated AD.
 * **GET-PARAMETER-FILE-BASEURI:** Using this function, you can get the Parameter-file BaseURI.
 * **GET-TEMPLATE-FILE-BASEURI:** Using this function, you can get the Template-file BaseURI.
 ### Use of Template outputs

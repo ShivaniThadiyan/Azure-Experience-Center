@@ -2,6 +2,11 @@
  * [Dashboard overview & Export Report](#dashboard-overview-&-export-report)
 
 ### Dashboard Overview & Export Reports
+- Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.
+- Click on **DASHBOARD** at the top right corner of the events page.
+<img src="/Images/click_on_dashboard.png"/>
+
+- Now you can see the dashboard section.
 <img src="/Images/ODL_Dashboard.png"/>
 
 - In Dashboard Overview Section, you can see the **12 ODLs** and **30 Attendees**.

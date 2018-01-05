@@ -38,5 +38,5 @@
 - Click on **Submit** once required options are above populated.
 
 
-[<Previous](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Report.md) 
-
+[<Previous](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Report.md) /
+[Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Checklist.md)

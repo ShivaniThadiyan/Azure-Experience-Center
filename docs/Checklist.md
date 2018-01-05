@@ -1,9 +1,10 @@
 ## Checklist
+* [Checklist for AEC](#checklist-for-AEC)
+  * [7 days before the event](#7-days-before-the-event)
+  * [On the Event day](#on-the-event-day)
+  * [After Event](#after-event)
+  
 ### Checklist for AEC
- * [7 days before the event](#7-days-before-the-event)
- * [On the Event day](#on-the-event-day)
- * [After Event](#after-event)
- 
 ### 7 days before the event
 - For any Event, Create an template by following [this document](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md).
 - Test the Template by following [this document](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#validating-template).

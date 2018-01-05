@@ -12,7 +12,7 @@
     
  ### Create Template
 - Navigate to the portal using the link https://experience-azure-mgmt.azurewebsites.net/#/main and login with your AEC credentials.  
-- Once logged in, click on **Templates** on the left pane of the portal. This will list the templates if any.  
+- Once logged in, click on **Templates** on the left paneL of the portal. This will list the templates if any.  
 
 <img src="/Images/templates.png"/>
 
@@ -28,7 +28,7 @@
 * **ARM Template URL(optional):** Upload the ARM template that automate the required resources for the event, to storage and provide the template link.  
 * **Parameter Template URL(optional):** Upload the parameter template that is used in the ARM template, to storage and provide the parameter template link.  
 * **Owner Email:** Provide the email ID of the owner of the workshop.  
-* **Deployment Plan:** Choose any of the deployment plan as below
+* **Deployment Plan:** Choose any of the deployment plan as below.
   * **Single Resource Group:** Choose this plan if you need only one resource group for the workshop to deploy.
   * **Shared Instance:** Choosing this plan will provide one resource group for all the attendees in the workshop.
   * **Resource Group-Two:** Choose this plan if you need two resource group for the workshop to deploy.
@@ -62,7 +62,6 @@
 * **GET-SERVICEPRINCIPAL-SECRET:** Using this function, you can get the Service-Principal Secret key.
 * **GET-SERVICEPRINCIPAL-APPLICATION-ID:** Using this function, you can get the Service-Principal Application-ID.
 * **GET-SERVICEPRINCIPAL-OBJECT-ID:** Using this function, you can get the Service-Principal Object-ID.
-* **GET-SERVICEPRINCIPAL-SPOBJECT-ID:**
 * **GET-AZUSER-UPN:** Using this function,you can get the generated AD email of the attendee. for **example: demouser_spektrasystems_com@spektrahol.onmicrosoft.com**
 * **GET-AZUSER-PASSWORD:** Using this function,you can get the temporary password of the generated AD.
 * **GET-PARAMETER-FILE-BASEURI:** Using this function, you can get the Parameter-file BaseURI.

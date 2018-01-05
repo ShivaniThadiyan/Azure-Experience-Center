@@ -32,7 +32,11 @@
   * [Dashboard overview & Export Report](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Report.md#dashboard-overview-&-export-report)
 * [License Key Distribution](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/License-Key-Distribution.md)
   * [Create licenses keys](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/License-Key-Distribution.md#create-licenses-keys)
-
+* [Checklist](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Checklist.md)
+  * [Checklist for AEC](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Checklist.md#checklist-for-AEC)
+   * [7 days before the event](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Checklist.md#7-days-before-the-event)
+   * [On the Event day](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Checklist.md#on-the-event-day)
+   * [After Event](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Checklist.md#after-event)
 <!-- /TOC -->
 
 [Next>](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Getting%20Started.md)

@@ -10,7 +10,7 @@
     * [Explanation of all fields](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#explanation-of-all-fields) 
  * [ARM Template Best Practices](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#arm-template-best-practices)
    * [Use of Custom Input Parameter functions](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#use-of-input-parameter-functions)
-     * [Explanation of all Functios](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#explanation-of-all-functions)
+     * [Explanation of all Functions](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#explanation-of-all-functions)
     * [Use of template outputs](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#use-of-template-outputs)
   * [Template Permissions](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#template-permissions)
     * [Explanation with details to implement](https://github.com/ShivaniThadiyan/Azure-Experience-Center/blob/master/docs/Creating-AEC-templates.md#explanation-with-details-to-implement)
